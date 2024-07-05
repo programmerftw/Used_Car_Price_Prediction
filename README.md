@@ -1,6 +1,6 @@
-# Car Price Prediction Application
+# Used Car Price Prediction with Machine Learning regression
 
-This repository contains the source code for a car price prediction application. The application utilizes machine learning techniques to predict the price of a car based on various factors.
+This repository contains the source code for a used car price prediction. The application utilizes machine learning techniques to predict the price of a car based on various factors.
 
 ## How it Works
 

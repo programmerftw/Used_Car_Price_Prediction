@@ -34,6 +34,4 @@ Finally, I built machine learning models using the preprocessed training data. I
 
 The models were trained using the training data and evaluated using techniques such as cross-validation and performance metrics like Mean Absolute Error (MAE) and Root Mean Squared Error (RMSE).
 
-For details on each step, please refer to the respective markdown files linked below:
 
-[Data Visualization and Exploration](visualization.md)
